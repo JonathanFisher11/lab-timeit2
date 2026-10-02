@@ -53,22 +53,22 @@ measure the runtime and enter it into the table.
 | `n=2**4`       |        377nsec            |    860nsec            |
 | `n=2**5`       |        618nsec            |    936nsec            |
 | `n=2**6`       |        1.08usec           |    1.04usec           |
-| `n=2**7`       |        2.01usec           |    1.23nsec           |
-| `n=2**8`       |        3.91usec           |    1.51nsec           |
-| `n=2**9`       |        7.63usec           |    1.69nsec           |
-| `n=2**10`      |        15.1usec           |    1.88nsec           |
-| `n=2**11`      |        29.8usec           |    2nsec              |
-| `n=2**12`      |        59.5usec           |    2.13nsec           |
-| `n=2**13`      |        119usec            |    2.28nsec           |
-| `n=2**14`      |        239usec            |    2.42nsec           |
-| `n=2**15`      |        475usec            |    2.6nsec            |
-| `n=2**16`      |        939usec            |    2.68nsec           |
-| `n=2**17`      |        1.9msec            |    2.89nsec           |
-| `n=2**18`      |        3.81msec           |    3.07nsec           |
-| `n=2**19`      |        7.64msec           |    3.19nsec           |
-| `n=2**20`      |        15.4msec           |    3.36nsec           |
-| `n=2**21`      |        31msec             |    3.53nsec           |
-| `n=2**22`      |        61.1msec           |    3.7nsec            |
+| `n=2**7`       |        2.01usec           |    1.23usec           |
+| `n=2**8`       |        3.91usec           |    1.51usec           |
+| `n=2**9`       |        7.63usec           |    1.69usec           |
+| `n=2**10`      |        15.1usec           |    1.88usec           |
+| `n=2**11`      |        29.8usec           |    2usec              |
+| `n=2**12`      |        59.5usec           |    2.13usec           |
+| `n=2**13`      |        119usec            |    2.28usec           |
+| `n=2**14`      |        239usec            |    2.42usec           |
+| `n=2**15`      |        475usec            |    2.6usec            |
+| `n=2**16`      |        939usec            |    2.68usec           |
+| `n=2**17`      |        1.9msec            |    2.89usec           |
+| `n=2**18`      |        3.81msec           |    3.07usec           |
+| `n=2**19`      |        7.64msec           |    3.19usec           |
+| `n=2**20`      |        15.4msec           |    3.36usec           |
+| `n=2**21`      |        31msec             |    3.53usec           |
+| `n=2**22`      |        61.1msec           |    3.7usec            |
 
 > **HINT:**
 > You don't have to run all of these tests manually.
